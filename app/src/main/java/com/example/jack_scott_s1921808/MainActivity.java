@@ -1,3 +1,9 @@
+//
+// Name                 Jack Scott
+// Student ID           S1921808
+// Programme of Study   BSc Computing
+//
+
 package com.example.jack_scott_s1921808;
 
 import androidx.appcompat.app.AppCompatActivity;
