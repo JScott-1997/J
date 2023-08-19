@@ -35,7 +35,7 @@ Student Number: S1921808
             android:layout_marginStart="16dp"
             android:layout_marginTop="20dp"
             android:text="TextView"
-            android:textSize="24sp"
+            android:textSize="16sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textCurrName" />
 
@@ -46,7 +46,7 @@ Student Number: S1921808
             android:layout_marginTop="20dp"
             android:layout_marginEnd="16dp"
             android:text="TextView"
-            android:textSize="24sp"
+            android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toEndOf="@+id/textCurrCode"
